@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9871eb7d-420b-46fd-b893-df080042fe2c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applying-css/embedded.html" afterPath="$PROJECT_DIR$/applying-css/embedded.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applying-css/external.html" afterPath="$PROJECT_DIR$/applying-css/external.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753632303" ignored="false" />
+    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753800577" ignored="false" />
     <file path="/element_definitions.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373413753016" ignored="false" />
     <file path="/gallery.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373579811470" ignored="false" />
     <file path="/inline.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753610036" ignored="false" />
     <file path="/external.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753771824" ignored="false" />
+    <file path="/embedded.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753819801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
       <file leaf-file-name="external.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/applying-css/external.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="109" selection-start="4162" selection-end="4162" vertical-scroll-proportion="0.41244572">
+            <state line="16" column="12" selection-start="3292" selection-end="3292" vertical-scroll-proportion="0.34732273">
               <folding />
             </state>
           </provider>
@@ -60,7 +62,7 @@
       <file leaf-file-name="embedded.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="35" column="12" selection-start="3707" selection-end="3707" vertical-scroll-proportion="-21.875">
               <folding />
             </state>
           </provider>
@@ -69,7 +71,7 @@
       <file leaf-file-name="css.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="4" selection-start="155" selection-end="229" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="274" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -98,6 +100,7 @@
         <option value="$PROJECT_DIR$/template_test.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/applying-css/inline.html" />
+        <option value="$PROJECT_DIR$/applying-css/embedded.html" />
         <option value="$PROJECT_DIR$/applying-css/external.html" />
       </list>
     </option>
@@ -234,7 +237,11 @@
       <created>1373753635103</created>
       <updated>1373753635103</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added External StyleSheet to external.html">
+      <created>1373753804884</created>
+      <updated>1373753804884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -302,7 +309,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt to Upload new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added External StyleSheet to external.html" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -317,6 +324,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Attempt to Upload new files" />
+    <MESSAGE value="Added External StyleSheet to external.html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -346,20 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="155" selection-end="229" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="-8.125">
@@ -375,9 +369,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="12" selection-start="3707" selection-end="3707" vertical-scroll-proportion="-21.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/external.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="109" selection-start="4162" selection-end="4162" vertical-scroll-proportion="0.41244572">
+        <state line="16" column="12" selection-start="3292" selection-end="3292" vertical-scroll-proportion="0.34732273">
           <folding />
         </state>
       </provider>
