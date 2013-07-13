@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9871eb7d-420b-46fd-b893-df080042fe2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bird1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bird2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bird3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bird4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tn-bird1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tn-bird2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tn-bird3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tn-bird4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examplearts/.idea/workspace.xml" afterPath="$PROJECT_DIR$/examplearts/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373579264617" ignored="false" />
+    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373737416115" ignored="false" />
     <file path="/element_definitions.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373413753016" ignored="false" />
     <file path="/gallery.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373579811470" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,10 +28,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gallery.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/gallery.html">
+      <file leaf-file-name="inline.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="24" selection-start="879" selection-end="879" vertical-scroll-proportion="0.61789775">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="external.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applying-css/external.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="embedded.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,11 +84,13 @@
       <list>
         <option value="$PROJECT_DIR$/element_definitions.html" />
         <option value="$PROJECT_DIR$/images/gallery.html" />
+        <option value="$PROJECT_DIR$/template_test.html" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
+    <option name="x" value="168" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="874" />
@@ -102,7 +121,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -131,17 +149,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="applying-css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -159,7 +182,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -167,6 +190,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9871eb7d-420b-46fd-b893-df080042fe2c" name="Default" comment="" />
@@ -176,7 +216,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="22" width="1440" height="874" extended-state="0" />
+    <frame x="168" y="22" width="1440" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -258,23 +298,54 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/element_definitions.html">
+    <entry file="file://$PROJECT_DIR$/images/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="12" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.0">
+        <state line="29" column="24" selection-start="879" selection-end="879" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/element_definitions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="12" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.82954544">
-          <folding />
-        </state>
+        <state line="81" column="12" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/element_definitions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="12" selection-start="2698" selection-end="2698" vertical-scroll-proportion="0.82954544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="24" selection-start="879" selection-end="879" vertical-scroll-proportion="0.61789775">
+        <state line="29" column="1" selection-start="873" selection-end="873" vertical-scroll-proportion="0.61789775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/external.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
