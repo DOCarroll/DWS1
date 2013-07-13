@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9871eb7d-420b-46fd-b893-df080042fe2c" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="MOVED" beforePath="$PROJECT_DIR$/applying-css/css.txt" afterPath="$PROJECT_DIR$/applying-css/css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applying-css/external.html" afterPath="$PROJECT_DIR$/applying-css/external.html" />
+>>>>>>> gh-pages
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
     <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373754424422" ignored="false" />
+=======
+    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373754445287" ignored="false" />
+>>>>>>> gh-pages
     <file path="/element_definitions.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373413753016" ignored="false" />
     <file path="/gallery.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373579811470" ignored="false" />
     <file path="/inline.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753610036" ignored="false" />
-    <file path="/external.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753771824" ignored="false" />
+    <file path="/external.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373754451637" ignored="false" />
     <file path="/embedded.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753819801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +43,11 @@
       <file leaf-file-name="inline.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="-8.125">
+=======
+            <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="0.0">
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
@@ -43,7 +56,11 @@
       <file leaf-file-name="external.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/applying-css/external.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="0" column="103" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+=======
+            <state line="19" column="0" selection-start="4182" selection-end="4182" vertical-scroll-proportion="0.41244572">
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
@@ -52,7 +69,11 @@
       <file leaf-file-name="embedded.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="16" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="-10.0">
+=======
+            <state line="13" column="10" selection-start="342" selection-end="342" vertical-scroll-proportion="-8.125">
+>>>>>>> gh-pages
               <folding />
             </state>
           </provider>
@@ -235,6 +256,7 @@
       <created>1373753879721</created>
       <updated>1373753879721</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="Changed css.txt file to css.css">
       <created>1373754365358</created>
       <updated>1373754365358</updated>
@@ -244,17 +266,23 @@
       <updated>1373754427802</updated>
     </task>
     <option name="localTasksCounter" value="7" />
+=======
+    <option name="localTasksCounter" value="5" />
+>>>>>>> gh-pages
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="168" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> gh-pages
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -264,6 +292,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -311,7 +340,11 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="Changed css.txt file to css.css" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="Added Embedded StyleSheet to embedded.html and fixed tabbing issues on external.html" />
+>>>>>>> gh-pages
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -328,7 +361,10 @@
     <MESSAGE value="Attempt to Upload new files" />
     <MESSAGE value="Added External StyleSheet to external.html" />
     <MESSAGE value="Added Embedded StyleSheet to embedded.html and fixed tabbing issues on external.html" />
+<<<<<<< HEAD
     <MESSAGE value="Changed css.txt file to css.css" />
+=======
+>>>>>>> gh-pages
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -350,14 +386,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="16" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
+=======
+        <state line="13" column="115" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/css.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="18" column="42" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+=======
+        <state line="0" column="0" selection-start="0" selection-end="274" vertical-scroll-proportion="0.0">
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
@@ -388,28 +432,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/css.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="18" column="42" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+=======
+        <state line="0" column="0" selection-start="0" selection-end="274" vertical-scroll-proportion="0.0">
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="-10.0">
+=======
+    <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="0.0">
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="-8.125">
+=======
+        <state line="13" column="10" selection-start="342" selection-end="342" vertical-scroll-proportion="-8.125">
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/external.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="0" column="103" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+=======
+        <state line="19" column="0" selection-start="4182" selection-end="4182" vertical-scroll-proportion="0.41244572">
+>>>>>>> gh-pages
           <folding />
         </state>
       </provider>
