@@ -25,8 +25,11 @@
   </component>
   <component name="FileEditorManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <leaf />
 =======
+=======
+>>>>>>> gh-pages
     <leaf>
       <file leaf-file-name="recipe_fix.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recipe_fix.html">
@@ -47,6 +50,12 @@
         </entry>
       </file>
     </leaf>
+<<<<<<< HEAD
+>>>>>>> gh-pages
+=======
+=======
+    <leaf />
+>>>>>>> Test
 >>>>>>> gh-pages
   </component>
   <component name="FindManager">
@@ -65,11 +74,20 @@
   </component>
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="356" />
     <option name="y" value="452" />
 =======
     <option name="x" value="24" />
     <option name="y" value="22" />
+>>>>>>> gh-pages
+=======
+    <option name="x" value="24" />
+    <option name="y" value="22" />
+=======
+    <option name="x" value="356" />
+    <option name="y" value="452" />
+>>>>>>> Test
 >>>>>>> gh-pages
     <option name="width" value="1440" />
     <option name="height" value="874" />
@@ -103,8 +121,11 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <subPane />
 =======
+=======
+>>>>>>> gh-pages
         <subPane>
           <PATH>
             <PATH_ELEMENT>
@@ -123,6 +144,12 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+<<<<<<< HEAD
+>>>>>>> gh-pages
+=======
+=======
+        <subPane />
+>>>>>>> Test
 >>>>>>> gh-pages
       </pane>
     </panes>
@@ -160,20 +187,36 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="356" y="452" width="1440" height="874" extended-state="6" />
     <editor active="false" />
 =======
     <frame x="24" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
 >>>>>>> gh-pages
+=======
+    <frame x="24" y="22" width="1440" height="874" extended-state="6" />
+    <editor active="true" />
+=======
+    <frame x="356" y="452" width="1440" height="874" extended-state="6" />
+    <editor active="false" />
+>>>>>>> Test
+>>>>>>> gh-pages
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> gh-pages
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> Test
 >>>>>>> gh-pages
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -258,7 +301,10 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> gh-pages
     <entry file="file://$PROJECT_DIR$/recipe_fix.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="-16.875">
@@ -273,6 +319,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+>>>>>>> gh-pages
+=======
+=======
+>>>>>>> Test
 >>>>>>> gh-pages
   </component>
 </project>
