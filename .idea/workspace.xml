@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9871eb7d-420b-46fd-b893-df080042fe2c" name="Default" comment="Attempt to Upload new files">
+    <list default="true" id="9871eb7d-420b-46fd-b893-df080042fe2c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/applying-css/external.html" afterPath="$PROJECT_DIR$/applying-css/external.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DWS1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753380668" ignored="false" />
+    <file path="/Dummy.txt" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753632303" ignored="false" />
     <file path="/element_definitions.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373413753016" ignored="false" />
     <file path="/gallery.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373579811470" ignored="false" />
+    <file path="/inline.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753610036" ignored="false" />
+    <file path="/external.html" changelist="9871eb7d-420b-46fd-b893-df080042fe2c" time="1373753771824" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,19 +31,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="inline.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="inline.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="-8.125">
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="external.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="external.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/applying-css/external.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="19" column="109" selection-start="4162" selection-end="4162" vertical-scroll-proportion="0.41244572">
               <folding />
             </state>
           </provider>
@@ -58,7 +69,7 @@
       <file leaf-file-name="css.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="10" column="4" selection-start="155" selection-end="229" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,6 +97,8 @@
         <option value="$PROJECT_DIR$/images/gallery.html" />
         <option value="$PROJECT_DIR$/template_test.html" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/applying-css/inline.html" />
+        <option value="$PROJECT_DIR$/applying-css/external.html" />
       </list>
     </option>
   </component>
@@ -217,7 +230,11 @@
       <created>1373753368453</created>
       <updated>1373753368453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Attempt to Upload new files">
+      <created>1373753635103</created>
+      <updated>1373753635103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -329,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/embedded.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -343,16 +353,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applying-css/external.html">
+    <entry file="file://$PROJECT_DIR$/applying-css/css.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="10" column="4" selection-start="155" selection-end="229" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/applying-css/inline.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+        <state line="13" column="35" selection-start="2699" selection-end="2699" vertical-scroll-proportion="-8.125">
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applying-css/external.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="109" selection-start="4162" selection-end="4162" vertical-scroll-proportion="0.41244572">
           <folding />
         </state>
       </provider>
